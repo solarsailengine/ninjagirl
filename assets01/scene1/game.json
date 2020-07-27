@@ -1,0 +1,38 @@
+{
+    "name": "scene",
+    "entities": [
+        {
+            "active": true,
+            "name": "background",
+            "spriterenderer": {},
+            "staticsprite": {
+                "atlas": "scene1/atlas",
+                "name": "background"
+            },
+            "transform": {
+                "scale": {
+                    "x": 200.0,
+                    "y": 200.0,
+                    "z": 200.0
+                }
+            }
+        },
+        {
+            "name": "ninjagirl",
+            "script": {
+                "path": "scene1/ninjagirl.lua"
+            },
+            "spriterenderer": {},
+            "animatedsprite": {
+                "atlas": "scene1/atlas",
+                "name": "ninjagirl/Idle_"
+            },
+            "transform": {
+                "scale" : {
+                    "x": 1.2,
+                    "y": 1.2
+                }
+            }
+        }
+    ]
+}
