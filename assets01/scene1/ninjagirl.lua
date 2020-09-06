@@ -14,7 +14,7 @@ function script:onkeyboard(buffer)
 		getcomponent(self.entity, "animatedsprite").name = 'ninjagirl/Idle_'
 	end
 	if buffer == 'r' then
-		getcomponent(self.entity, "animatedsprite").name = 'ninjagirl/Run_'
+		getcomponent(self.entity, "animatedsprite").name = 'ninjagirl/Run'
 	end
 end
 

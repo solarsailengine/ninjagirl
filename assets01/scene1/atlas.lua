@@ -1,9 +1,9 @@
 -- created with TexturePacker (http://www.texturepacker.com)
--- smartupdate: "$TexturePacker:SmartUpdate:5bab56e70640d0163890a77f5492984e:d0b8c351d4d8ba2bc11f75c5d651b03f:1342df48883dbf914cf9718bfa962eec$"
+-- smartupdate: "$TexturePacker:SmartUpdate:e063ee7176b3fc9da96eab03b9a9da0a:d0b8c351d4d8ba2bc11f75c5d651b03f:1342df48883dbf914cf9718bfa962eec$"
 
 function loadatlas()
 	local atlas = atlas()
-	atlas.atlasPath = "scene1/atlas.png"
+	atlas.atlasPath = "/scene1/atlas.png"
 	atlas.atlasHeight = 6288
 	atlas.atlasWidth = 4020
 
@@ -401,42 +401,42 @@ function loadatlas()
 	sprite.frame.height = 497
 
 	sprite = addsprite()
-	sprite.name = "ninjagirl/Run__000"
+	sprite.name = "ninjagirl/Run_000"
 	sprite.frame.x = 1604
 	sprite.frame.y = 1169
 	sprite.frame.width = 376
 	sprite.frame.height = 520
 
 	sprite = addsprite()
-	sprite.name = "ninjagirl/Run__001"
+	sprite.name = "ninjagirl/Run_001"
 	sprite.frame.x = 1604
 	sprite.frame.y = 1691
 	sprite.frame.width = 376
 	sprite.frame.height = 520
 
 	sprite = addsprite()
-	sprite.name = "ninjagirl/Run__002"
+	sprite.name = "ninjagirl/Run_002"
 	sprite.frame.x = 1982
 	sprite.frame.y = 1147
 	sprite.frame.width = 376
 	sprite.frame.height = 520
 
 	sprite = addsprite()
-	sprite.name = "ninjagirl/Run__003"
+	sprite.name = "ninjagirl/Run_003"
 	sprite.frame.x = 1982
 	sprite.frame.y = 1669
 	sprite.frame.width = 376
 	sprite.frame.height = 520
 
 	sprite = addsprite()
-	sprite.name = "ninjagirl/Run__004"
+	sprite.name = "ninjagirl/Run_004"
 	sprite.frame.x = 2360
 	sprite.frame.y = 1113
 	sprite.frame.width = 376
 	sprite.frame.height = 520
 
 	sprite = addsprite()
-	sprite.name = "ninjagirl/Run__005"
+	sprite.name = "ninjagirl/Run_005"
 	sprite.frame.x = 2360
 	sprite.frame.y = 1635
 	sprite.frame.width = 376
@@ -471,7 +471,7 @@ function loadatlas()
 	sprite.frame.height = 497
 
 	sprite = addsprite()
-	sprite.name = "ninjagirl/Run__006"
+	sprite.name = "ninjagirl/Run_006"
 	sprite.frame.x = 3592
 	sprite.frame.y = 1067
 	sprite.frame.width = 376
@@ -520,14 +520,14 @@ function loadatlas()
 	sprite.frame.height = 401
 
 	sprite = addsprite()
-	sprite.name = "ninjagirl/Run__007"
+	sprite.name = "ninjagirl/Run_007"
 	sprite.frame.x = 2360
 	sprite.frame.y = 2157
 	sprite.frame.width = 376
 	sprite.frame.height = 520
 
 	sprite = addsprite()
-	sprite.name = "ninjagirl/Run__008"
+	sprite.name = "ninjagirl/Run_008"
 	sprite.frame.x = 1982
 	sprite.frame.y = 2191
 	sprite.frame.width = 376
@@ -576,7 +576,7 @@ function loadatlas()
 	sprite.frame.height = 401
 
 	sprite = addsprite()
-	sprite.name = "ninjagirl/Run__009"
+	sprite.name = "ninjagirl/Run_009"
 	sprite.frame.x = 2360
 	sprite.frame.y = 2679
 	sprite.frame.width = 376
@@ -885,7 +885,7 @@ function loadatlas()
 	addframe(sequence, 67)
 
 	sequence = addsequence()
-	sequence.name = "ninjagirl/Run_"
+	sequence.name = "ninjagirl/Run"
 	addframe(sequence, 56)
 	addframe(sequence, 57)
 	addframe(sequence, 58)

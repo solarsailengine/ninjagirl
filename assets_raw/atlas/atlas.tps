@@ -383,16 +383,16 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">ninjagirl/Run__000.png</key>
-            <key type="filename">ninjagirl/Run__001.png</key>
-            <key type="filename">ninjagirl/Run__002.png</key>
-            <key type="filename">ninjagirl/Run__003.png</key>
-            <key type="filename">ninjagirl/Run__004.png</key>
-            <key type="filename">ninjagirl/Run__005.png</key>
-            <key type="filename">ninjagirl/Run__006.png</key>
-            <key type="filename">ninjagirl/Run__007.png</key>
-            <key type="filename">ninjagirl/Run__008.png</key>
-            <key type="filename">ninjagirl/Run__009.png</key>
+            <key type="filename">ninjagirl/Run_000.png</key>
+            <key type="filename">ninjagirl/Run_001.png</key>
+            <key type="filename">ninjagirl/Run_002.png</key>
+            <key type="filename">ninjagirl/Run_003.png</key>
+            <key type="filename">ninjagirl/Run_004.png</key>
+            <key type="filename">ninjagirl/Run_005.png</key>
+            <key type="filename">ninjagirl/Run_006.png</key>
+            <key type="filename">ninjagirl/Run_007.png</key>
+            <key type="filename">ninjagirl/Run_008.png</key>
+            <key type="filename">ninjagirl/Run_009.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
